@@ -36,7 +36,7 @@ Every feature is built on a data structure or algorithm from the course labs (La
 |---|---|
 | **Niche** | Coffee products (instant coffee, beans, ground coffee, capsules, ready-to-drink) |
 | **Brands** | Nescafe, Lavazza, Illy, Kopiko |
-| **Starting inventory** | 14 products |
+| **Starting inventory** | 10 products |
 
 ---
 
