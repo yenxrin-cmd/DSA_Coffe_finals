@@ -7,7 +7,7 @@ A console-based C++ inventory system for a coffee shop that carries partner bran
 Every feature is built on a data structure or algorithm from the course labs (Labs 1-8).
 
 **Author:** [Rina Robis]  
-**Course / Section:** CS201 - Data Structure and Algorithm Analysis, BS in Computer Engineering  
+**Course / Section:** BS in Computer Engineering  
 **Instructor:** Engr. Kaycee Calinaya  
 **Date:** NOV. 17, 2026
 
